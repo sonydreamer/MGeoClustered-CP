@@ -1,3 +1,4 @@
+# The code for ImageNet will be released later
 import warnings
 import torch
 from tqdm import tqdm
